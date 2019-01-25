@@ -48,7 +48,7 @@ The key findings from the analysis are summarized below:
 1. It was found that the peak season in Seattle were during the summer months from June through August, with the peak month being July. 
 2. The Southeast Magnolia neighborhood was the priciest neighborhood in Seattle, followed by Portage Bay. Rainier Beach was the cheapest.
 3. Looking further at neighborhoods and property types, it was found that Houses in Portage Bay are the most expensive followed by Houses in West Queen Anne and Westlake. In Westlake, both Houses and Apartments could be found at approximately the same price range.
-4. With the help of SentimentIntensityAnalyzer, I was able to map reviews to their respective sentiments of positive, negative or neutral.
+4. With the help of SentimentIntensityAnalyzer, I was able to map reviews to their respective sentiments of positive, negative or neutral. It was found that 97.2% of reviews were mostly positive, with 1% negative reviews and 1.8% of reviews that were neutral.
 5. In exploring review sentiments by neighborhoods, it was found that Roxhill, Cedar Park and Pinehurst were the neighborhoods with the most positive reviews, while University District, Holly Park and View Ridge ranked lower.
 6. In exploring the worst reviews, it was found that SentimentIntensityAnalyzer associate non-English reviews with negative sentiments. 
 7. Using LinearRegression, I was able to predict price based on a prepped and cleaned dataset, with an r2score of 0.62 on both training and test datasets.
