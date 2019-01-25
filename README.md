@@ -41,6 +41,11 @@ There is 1 Jupyter notebook available here to showcase the analysis done in orde
 
 An HTML version of the notebook is also available for reference.
 
+Lastly, the seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
+- calendar.csv: calendar availability of listings and price
+- listings.csv: information about all the available listings
+- reviews.csv: listing reviews by users
+
 ## Summary of Results<a name="results"></a>
 
 The key findings from the analysis are summarized below:
